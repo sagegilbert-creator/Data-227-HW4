@@ -7,7 +7,7 @@
 import numpy as np 
 import pandas as pd 
 import altair as alt
-from vega_datasets import data
+#from vega_datasets import data
 
 
 # To start, I choose to answer questions 1, 2, and 3 provided in the dataset. 
